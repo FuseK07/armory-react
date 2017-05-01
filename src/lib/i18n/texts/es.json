@@ -6,7 +6,7 @@
     }
   },
   "embeds": {
-    "name": "Insertar"
+    "name": "Código para insertar"
   },
   "login": {
     "name": "Entrar",
@@ -27,7 +27,7 @@
     "name": "Regístrate",
     "loginCta": "¿Ya tienes cuenta? ¡Haz clic aquí!",
     "buttons": {
-      "join": "Registrar"
+      "join": "Regístrate"
     }
   },
   "images": {
@@ -88,7 +88,7 @@
     "edit": "Editar",
     "changePortrait": "Cambiar el retrato del personaje",
     "noSkill": "Habilidad no seleccionada",
-    "embedTooltip": "Copia y pega este markup a tu página."
+    "embedTooltip": "Copia y pega este código en tu página."
   },
   "settings": {
     "name": "Ajustes",
@@ -188,7 +188,7 @@
     "loadMore": "Cargar más"
   },
   "leaderboards": {
-    "name": "Tabla de clasificación"
+    "name": "Clasificación"
   },
   "messages": {
     "gw2ApiDown": "¡La API oficial de GW2 está teniendo problemas, tu sesión se puede ver afectada!",
