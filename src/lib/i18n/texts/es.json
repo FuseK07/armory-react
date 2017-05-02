@@ -6,7 +6,7 @@
     }
   },
   "embeds": {
-    "name": "Insertar"
+    "name": "Código para insertar"
   },
   "login": {
     "name": "Entrar",
@@ -55,8 +55,8 @@
     "invalidToken": "No se pudieron recuperar los datos de GW2, la clave de la API seguramente fue eliminada de la cuenta de usuario.",
     "pvpStats": {
       "name": "Estadísticas PvP",
-      "unranked": "Libres",
-      "ranked": "Clasificatorias",
+      "unranked": "Arenas libres",
+      "ranked": "Arenas clasificatorias",
       "wins": "Victorias",
       "byes": "Enemigo desconectado",
       "losses": "Derrotas",
@@ -88,7 +88,7 @@
     "edit": "Editar",
     "changePortrait": "Cambiar el retrato del personaje",
     "noSkill": "Habilidad no seleccionada",
-    "embedTooltip": "Copia y pega este markup a tu página."
+    "embedTooltip": "Copia y pega este código en tu página."
   },
   "settings": {
     "name": "Ajustes",
@@ -185,7 +185,7 @@
     "optional": "Opcional",
     "dismiss": "Descartar",
     "embed": "Insertar",
-    "loadMore": "Cargar más"
+    "loadMore": "Mostrar más"
   },
   "leaderboards": {
     "name": "Tabla de clasificación"
@@ -193,7 +193,7 @@
   "messages": {
     "gw2ApiDown": "¡La API oficial de GW2 está teniendo problemas, tu sesión se puede ver afectada!",
     "notFound": "No se ha encontrado",
-    "notFoundLong": "No se ha  encontrado (or la API de API está caída)!",
+    "notFoundLong": "No se ha  encontrado (o la API de GW2 está caída)!",
     "resourceNotFound": "¡Lo siento, aquí no hay nada. ¡Aún así aquí tienes un personaje aleatorio!",
     "newBags": "¡Sacos ahora disponibles en las páginas de usuario! Próximamente logros de usuario."
   }
